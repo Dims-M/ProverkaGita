@@ -8,10 +8,13 @@ public class Animal {
     String name;
     String svet;
     String poroda;
+    String rost;
 
     int age;
     int vozrast;
 
     boolean pol = false; // епо умолчанию женский.
+
+
 
 }
